@@ -17,5 +17,5 @@ Endless runner game inspired by disconnected Google
 - [x] Importance of the z positioning.
 - [x] Using UserDefaults for saving Highscore
 - [x] There are 2 types of experimental levels for now
-- [ ] Dino is getting smaller
-- [ ] The cactuses start jumping instead of Dino xd
+- Dino is getting smaller
+- The cactuses start jumping instead of Dino xd
