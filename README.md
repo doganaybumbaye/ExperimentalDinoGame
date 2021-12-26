@@ -10,8 +10,8 @@ Endless runner game inspired by disconnected Google
 - [x] Using GameKit
 - [x] Creating game scene with programmaticly, also nodes.
 - [x] Animating to Dino with SKTextureAtlas 
-- [x] Creating a endless game loop
-- [x] Spawning Cactus objects with time intervals and repeating forever.
+- [x] Creating an endless game loop
+- [x] Spawning Cactus objects with time intervals and repeating forever, also randomly.
 - [x] Collisions between Dino, Ground and Cactuses.
 - [x] Using a Google font for game texts, like Game Over, Tap to Start etc.
 - [x] Importance of the z positioning.
